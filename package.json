@@ -1,0 +1,21 @@
+{
+  "name": "google-material-dark-theme",
+  "displayName": "Google Material Dark Theme",
+  "description": "Google style material dark theme for Visual Studio Code",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Google Material Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme.json"
+      }
+    ]
+  }
+}
