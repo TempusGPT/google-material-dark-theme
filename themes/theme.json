@@ -1905,7 +1905,7 @@
     "tab.hoverBackground": "#00000000",
     "scrollbarSlider.background": "#8ab4f840",
     "scrollbarSlider.hoverBackground": "#8ab4f880",
-    "scrollbarSlider.activeBackground": "#bfbfbf66",
+    "scrollbarSlider.activeBackground": "#8ab4f880",
     "progressBar.background": "#8ab4f8",
     "widget.shadow": "#00000080",
     "editorWidget.foreground": "#bdc0c3",
