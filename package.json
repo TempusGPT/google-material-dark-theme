@@ -3,6 +3,7 @@
   "displayName": "Google Material Dark Theme",
   "description": "Google style material dark theme for Visual Studio Code",
   "version": "1.0.0",
+  "publisher": "tempus157",
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -17,7 +18,7 @@
         "path": "./themes/theme.json"
       }
     ]
-  }, 
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/tempus157/google-material-dark-theme.git"
