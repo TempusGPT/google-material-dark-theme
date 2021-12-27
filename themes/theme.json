@@ -1852,7 +1852,7 @@
     "editorLink.activeForeground": "#8ab4f8",
     "editorIndentGuide.background": "#ffffff20",
     "editorIndentGuide.activeBackground": "#ffffff20",
-    "editorRuler.foreground": "#00000000",
+    "editorRuler.foreground": "#ffffff20",
     "editorBracketMatch.background": "#ffffff20",
     "editorBracketMatch.border": "#00000000",
     "editor.foldBackground": "#8ab4f820",
