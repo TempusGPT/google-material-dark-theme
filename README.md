@@ -1,13 +1,12 @@
-# README
-## This is the README for your extension "google-material-dark-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<img width="1136" alt="스크린샷 2021-12-27 오후 9 45 30" src="https://user-images.githubusercontent.com/49771744/147473329-014754ff-73a4-4c07-8a6a-ff78ba0f39b3.png">
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+### Customize UI
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+To make your editor look like the picture, install [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui) extension, and put the code below to your `settings.json`.
 
-**Enjoy!**
+```json
+{
+  "customizeUI.activityBar": "bottom",
+  "customizeUI.titleBar": "inline"
+}
+```
