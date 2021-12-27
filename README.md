@@ -2,7 +2,7 @@
 
 ### Customize UI
 
-To make your editor look like the picture, install [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui) extension, and put the code below to your `settings.json`.
+To make activity bar and title bar look like the picture, install [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui) extension, and put the code below to your `settings.json`.
 
 ```json
 {
